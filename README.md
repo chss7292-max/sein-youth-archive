@@ -9,3 +9,4 @@
 
 `index.html`을 브라우저에서 열면 미리볼 수 있습니다. 로그인, 권한 검증, 문서 저장과 댓글 저장은 아직 서버에 연결되지 않은 시연용입니다.
 
+타포지션에서 작업시 git clone https://github.com/chss7292-max/sein-youth-archive.git 프로젝트 다운로드
